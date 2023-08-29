@@ -64,7 +64,7 @@ console.log(sumWithInitial);
 const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
 
 // Execute a provided function once for each array element
-array1.forEach((element) => console.log(element));
+words.forEach((element) => console.log(element));
 
 /* Create new array */
 // Create a shallow copy of a portion of a given array, if the elements from the given array pass the test implemented by the provided function
