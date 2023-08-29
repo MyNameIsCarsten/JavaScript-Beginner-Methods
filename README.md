@@ -1,6 +1,7 @@
 # JavaScript-Beginner-Methods
 
 This repo is meant to be a simple overview for looking up built-in JavaScript methods.
+
 The examples and descriptions are taken from [mdn](https://developer.mozilla.org/)
 
 ## String methods
@@ -45,3 +46,16 @@ The file `array-methods.js` covers the following array methods:
 .splice()
 .reverse()
 ```
+
+## Object methods
+
+The file `object-methods.js` covers the following array methods:
+```
+.keys()
+.values()
+.entries()
+.assign()
+.is()
+.defineProperty()
+.hasOwnProperty()
+.freeze()
